@@ -97,6 +97,7 @@ export const calculatePositionAndAnimation = (
     }
     // Calculates the scale value for animation.
     // If the Snackbar is the topmost or is expanded, no scaling is applied.
+    // Limit the interactions or check for values less than 1
     const scaleValue = isTop || expanded ? 1 : 1 - 0.03 * reverseIndex;
 
     return {
