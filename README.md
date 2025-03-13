@@ -4,6 +4,8 @@
 
 https://stacked-snackbar.vercel.app/
 
+![stackedsnack](https://github.com/user-attachments/assets/1cee4883-55ef-4546-912f-8b7e6b258f3a)
+
 ## Overview
 
 This project introduces the `Snackbar Stack` component, designed to enhance user interfaces with an efficient and visually appealing notification system. Integrating seamlessly with React-based projects, it utilizes MUI (Material-UI) Snackbar to provide a consistent and accessible user experience.
